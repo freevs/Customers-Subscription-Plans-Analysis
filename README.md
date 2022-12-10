@@ -28,4 +28,14 @@ When customers upgrade their account from a basic plan to a pro or annual pro pl
 
 When customers churn - they will keep their access until the end of their current billing period but the start_date will be technically the day they decided to cancel their service.
 
-# 
+# Inference
+* There are total of 1000 Customers.
+* March is the month where the company has lot of subscribers.
+* The Customer Churn rate is around 30%.
+* There are 92 customers who have churned straight after their initial free trial, which 9% of the customer base.
+* Around 195 customers have upgraded to an annual plan in 2020.
+* It takes about 95 days on average does it take for a customer to upgrade to an annual plan from the day they join.
+* 54.6% of customers choose basic monthly , 53.9% chose pro monthly, 25.8% chose annual and 30% customers churned after their initial trial.
+
+
+
