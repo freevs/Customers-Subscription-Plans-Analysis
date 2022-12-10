@@ -1,4 +1,4 @@
-# Customers Subscription PlansAnalysis
+# Customers Subscription Analysis
 
 ## Goal of the Project
 The CEO of a streaming service company started selling monthly and annual subscriptions, giving their customers unlimited on-demand access to exclusive videos.He wants to ensure all future investment decisions and new features were decided using data. This project focuses on using customer subscription data to answer important business questions.
